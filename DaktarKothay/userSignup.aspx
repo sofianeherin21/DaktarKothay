@@ -206,7 +206,7 @@
 			<ul>
 				<li><a href="hoslogin.aspx" class="active">Hospital Admin</a></li>
 				<li><a href="medlogin.aspx" class="active">Medicine shop Admin</a></li>
-                <li><a href="usersignup.aspx" class="active">User</a></li>
+                <li><a href="userlogin.aspx" class="active">User</a></li>
 				
 				</ul>
 				</li>

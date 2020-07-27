@@ -68,3 +68,14 @@ D:\3.2 materials\SD\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKo
 D:\3.2 materials\SD\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csproj.CoreCompileInputs.cache
 D:\3.2 materials\SD\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.dll
 D:\3.2 materials\SD\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.pdb
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\bin\DaktarKothay.dll.config
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\bin\DaktarKothay.dll
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\bin\DaktarKothay.pdb
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\bin\MySql.Data.xml
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\obj\Debug\DaktarKothay.csprojAssemblyReference.cache
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\obj\Debug\DaktarKothay.csproj.CoreCompileInputs.cache
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\obj\Debug\DaktarKothay.csproj.CopyComplete
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\obj\Debug\DaktarKothay.dll
+D:\webdev Projects\DaktarKothay-master\DaktarKothay-master\DaktarKothay\obj\Debug\DaktarKothay.pdb
